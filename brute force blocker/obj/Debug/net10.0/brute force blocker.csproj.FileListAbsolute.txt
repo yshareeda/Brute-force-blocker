@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\brute force blocker\obj\Debug\net10.0\brute force blocker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\brute force blocker\obj\Debug\net10.0\brute force blocker.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\brute force blocker\obj\Debug\net10.0\brute force blocker.AssemblyInfo.cs
+C:\Users\User\Desktop\brute force blocker\obj\Debug\net10.0\brute force blocker.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\brute force blocker\bin\Debug\net10.0\brute force blocker.exe
+C:\Users\User\Desktop\brute force blocker\bin\Debug\net10.0\brute force blocker.deps.json
+C:\Users\User\Desktop\brute force blocker\bin\Debug\net10.0\brute force blocker.runtimeconfig.json
+C:\Users\User\Desktop\brute force blocker\bin\Debug\net10.0\brute force blocker.dll
+C:\Users\User\Desktop\brute force blocker\bin\Debug\net10.0\brute force blocker.pdb
+C:\Users\User\Desktop\brute force blocker\obj\Debug\net10.0\brute force blocker.dll
+C:\Users\User\Desktop\brute force blocker\obj\Debug\net10.0\refint\brute force blocker.dll
+C:\Users\User\Desktop\brute force blocker\obj\Debug\net10.0\brute force blocker.pdb
+C:\Users\User\Desktop\brute force blocker\obj\Debug\net10.0\brute force blocker.genruntimeconfig.cache
+C:\Users\User\Desktop\brute force blocker\obj\Debug\net10.0\ref\brute force blocker.dll
